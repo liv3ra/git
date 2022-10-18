@@ -1,3 +1,5 @@
+package Aulas;
+
 // Enums são estruturas com constantes definidas
 // Dias da semana, Meses do ano, Turnos do dia, estaçoes
 // Niveirs, (Junior, pleno, senior), Feriados nacionais, Naipes
